@@ -39,6 +39,7 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [inferno-devtools](https://github.com/infernojs/inferno/tree/master/packages/inferno-devtools)
 
 ## Contributing
+Your contribution or suggestion is always welcome, feel free to include new content :heart:
 
 ## License
 [MIT License](https://github.com/guuibayer/awesome-inferno/blob/master/LICENSE.md)
