@@ -30,9 +30,10 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [inferno-router](https://github.com/infernojs/inferno/tree/master/packages/inferno-router)
 
 ### Boilerplates
-- [inferno-boilerplate](https://github.com/infernojs/inferno-boilerplate)
-- [inferno-mobile](https://github.com/Rudy-Zidan/inferno-mobile)
-- [inferno-starter](https://github.com/nightwolfz/inferno-starter)
+- [inferno-boilerplate](https://github.com/infernojs/inferno-boilerplate) - Basic example for getting started
+- [inferno-mobile](https://github.com/Rudy-Zidan/inferno-mobile) - Mobile starter (InfernoJs, Cordova and onsen).
+- [inferno-starter](https://github.com/nightwolfz/inferno-starter) - Isomorphic Mobx starter project
+- [inferno-starter](https://github.com/lukeed/inferno-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps
 
 ### Tools
 - [create-inferno-app](https://github.com/infernojs/create-inferno-app)
