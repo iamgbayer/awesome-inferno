@@ -25,15 +25,16 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [Introducing Inferno 1.0](https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b#.7eopg73y8)
 
 ### Components
+- [inferno-virtual-list](https://github.com/lukeed/inferno-virtual-list)<br>_A "virtual" list that only renders visible items. Supports millions of rows. Recycles efficiently._
 
 ### Routing
 - [inferno-router](https://github.com/infernojs/inferno/tree/master/packages/inferno-router)
 
 ### Boilerplates
-- [inferno-boilerplate](https://github.com/infernojs/inferno-boilerplate) - Basic example for getting started
-- [inferno-mobile](https://github.com/Rudy-Zidan/inferno-mobile) - Mobile starter (InfernoJs, Cordova and onsen).
-- [inferno-starter](https://github.com/nightwolfz/inferno-starter) - Isomorphic Mobx starter project
-- [inferno-starter](https://github.com/lukeed/inferno-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps
+- [inferno-boilerplate](https://github.com/infernojs/inferno-boilerplate)<br>_Basic example for getting started_
+- [inferno-mobile](https://github.com/Rudy-Zidan/inferno-mobile)<br>_Mobile starter (InfernoJs, Cordova and onsen)._
+- [inferno-starter](https://github.com/nightwolfz/inferno-starter)<br>_Isomorphic Mobx starter project_
+- [inferno-starter](https://github.com/lukeed/inferno-starter)<br>_Webpack2 boilerplate for building SPA / PWA / offline front-end apps_
 
 ### Tools
 - [create-inferno-app](https://github.com/infernojs/create-inferno-app)
