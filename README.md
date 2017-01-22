@@ -5,23 +5,21 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
  
+## About Inferno
+> :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+
+### Inferno General Resources 
+- [Inferno Official Site](https://infernojs.org/)
+- [Inferno Github](https://github.com/infernojs/inferno)
+
+### Inferno Community
+- [Inferno Twitter](https://twitter.com/inferno_js)
+
 ## Summary
-- [About Inferno](#about-inferno)
 - [Articles](#articles)
 - [Components](#components)
 - [Routing](#routing)
 - [Tools](#tools)
-
-### About Inferno
-
-> :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
-
-- Inferno General Resources 
-  - [Inferno Official Site](https://infernojs.org/)
-  - [Inferno Github](https://github.com/infernojs/inferno)
-
-- Inferno Community
-  - [Inferno Twitter](https://twitter.com/inferno_js)
 
 ### Articles
 - [Introducing Inferno 1.0](https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b#.7eopg73y8)
