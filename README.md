@@ -5,12 +5,14 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
  
-### Summary
+## Summary
 - [Articles](#articles)
 - [Components](#components)
+- [Routing](#routing)
+- [Tools](#tools)
 
 ### Articles
-- 
+- [Introducing Inferno 1.0](https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b#.7eopg73y8)
 
 ### Components
 
@@ -25,3 +27,8 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 ### Tools
 - [create-inferno-app](https://github.com/infernojs/create-inferno-app)
 - [inferno-devtools](https://github.com/infernojs/inferno/tree/master/packages/inferno-devtools)
+
+## Contributing
+
+## License
+[MIT License](https://github.com/guuibayer/awesome-inferno/blob/master/LICENSE.md)
