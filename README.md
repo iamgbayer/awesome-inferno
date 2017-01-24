@@ -11,11 +11,11 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 ### Inferno General Resources 
 - [Inferno Official Site](https://infernojs.org/)
 - [Inferno Github](https://github.com/infernojs/inferno)
-- [Inferno Slack](https://inferno-slack.herokuapp.com)
-- [Inferno Reddit](https://www.reddit.com/r/infernojs)
 
 ### Inferno Community
 - [Inferno Twitter](https://twitter.com/inferno_js)
+- [Inferno Slack](https://inferno-slack.herokuapp.com)
+- [Inferno Reddit](https://www.reddit.com/r/infernojs)
 
 ## Summary
 - [Articles](#articles)
@@ -34,7 +34,7 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [inferno-motion](https://github.com/infernojs/inferno-motion)<br>_A spring that solves your animation problems_
 
 ### Routing
-- [inferno-router](https://github.com/infernojs/inferno/tree/master/packages/inferno-router)
+- [inferno-router](https://github.com/infernojs/inferno/tree/master/packages/inferno-router)<br>_Inferno Router is a routing library for Inferno._
 
 ### Boilerplates
 - [inferno-boilerplate](https://github.com/infernojs/inferno-boilerplate)<br>_Basic example for getting started_
