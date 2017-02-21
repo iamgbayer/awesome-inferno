@@ -44,7 +44,7 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [infernizer](https://github.com/oreqizer/infernizer)<br>_The ultimate Inferno boilerplate_
 
 ### Tools
-- [create-inferno-app](https://github.com/infernojs/create-inferno-app)
+- [create-inferno-app](https://github.com/infernojs/create-inferno-app)<br>_Port from [create-react-app](https://github.com/facebookincubator/create-react-app) to create Inferno apps with no build configuration._
 - [inferno-devtools](https://github.com/infernojs/inferno/tree/master/packages/inferno-devtools)
 - [nwb](https://github.com/insin/nwb)<br>_A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)_
 
