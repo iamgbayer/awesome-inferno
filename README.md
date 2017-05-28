@@ -48,6 +48,11 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [inferno-devtools](https://github.com/infernojs/inferno/tree/master/packages/inferno-devtools)
 - [nwb](https://github.com/insin/nwb)<br>_A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)_
 
+### State
+- [cerebral-view-inferno](https://github.com/cerebral-legacy/cerebral-view-inferno)<br>_The Inferno view package for Cerebral._
+- [inferno-mobx](https://github.com/infernojs/inferno/tree/dev/packages/inferno-mobx)<br>_This is a fork of [mobx-react](https://github.com/mobxjs/mobx-react) for Inferno._
+- [inferno-redux](https://github.com/infernojs/inferno/tree/dev/packages/inferno-redux)<br>_Inferno Redux is a [redux](https://github.com/reactjs/redux) library for Inferno._
+
 ## Contributing
 Your contribution or suggestion is always welcome, feel free to include new content :heart:
 
