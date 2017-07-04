@@ -32,6 +32,7 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 ### Components
 - [inferno-virtual-list](https://github.com/lukeed/inferno-virtual-list)<br>_A "virtual" list that only renders visible items. Supports millions of rows. Recycles efficiently._
 - [inferno-motion](https://github.com/infernojs/inferno-motion)<br>_A spring that solves your animation problems_
+- [ac-inferno](https://github.com/nitin42/animate-components)<br> Elemental components for doing animation!
 
 ### Routing
 - [inferno-router](https://github.com/infernojs/inferno/tree/master/packages/inferno-router)<br>_Inferno Router is a routing library for Inferno._
