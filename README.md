@@ -44,7 +44,7 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [inferno-starter](https://github.com/nightwolfz/inferno-starter)<br>_Isomorphic Mobx starter project_
 - [inferno-starter](https://github.com/lukeed/inferno-starter)<br>_Webpack2 boilerplate for building SPA / PWA / offline front-end apps_
 - [infernizer](https://github.com/oreqizer/infernizer)<br>_The ultimate Inferno boilerplate_
-
+- [inferno-isomorphic-tempalte](https://github.com/MrFoxPro/inferno-isomorphic-tempalte)<br>_FuseBox / Isomorphic / TypeScript
 ### Tools
 - [create-inferno-app](https://github.com/infernojs/create-inferno-app)<br>_Port from [create-react-app](https://github.com/facebookincubator/create-react-app) to create Inferno apps with no build configuration._
 - [inferno-devtools](https://github.com/infernojs/inferno/tree/master/packages/inferno-devtools)
