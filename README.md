@@ -21,7 +21,9 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 - [Articles](#articles)
 - [Components](#components)
 - [Routing](#routing)
+- [Boilerplates](#boilerplates)
 - [Tools](#tools)
+- [State](#state)
 
 ### Articles
 - [Introducing Inferno 1.0](https://medium.com/inferno-js/introducing-inferno-1-0-f3da5c4e773b#.7eopg73y8)
