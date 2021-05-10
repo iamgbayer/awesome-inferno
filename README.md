@@ -14,7 +14,6 @@ This repository is a awesome collection about the [Inferno](https://infernojs.or
 
 ### Inferno Community
 - [Inferno Twitter](https://twitter.com/inferno_js)
-- [Inferno Slack](https://inferno-slack.herokuapp.com)
 - [Inferno Reddit](https://www.reddit.com/r/infernojs)
 
 ## Summary
